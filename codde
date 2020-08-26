@@ -1,0 +1,26 @@
+<div class="row">
+       <div class="col-md-4">
+       <div class="form-group">
+       <label>Dc No.</label>
+       <input type="text" name="dc_no" class="form-control">
+       </div>
+       </div>
+
+       <div class="col-md-4">
+       <div class="form-group">
+       <label>Bill No.</label>
+       <input type="text" name="bill_no" class="form-control">
+       </div>
+       </div>
+
+
+       <div class="col-md-4">
+       <div class="form-group">
+       <label>date</label>
+       <input type="date" name="bill_date" class="form-control">
+       </div>
+       </div>
+       
+
+
+       </div>
